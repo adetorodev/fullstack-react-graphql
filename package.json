@@ -12,7 +12,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "compression": "^1.7.4",
+    "cors": "^2.8.5",
     "express": "^4.18.2",
+    "helmet": "^7.0.0",
     "nodemon": "^2.0.22",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -28,6 +31,7 @@
     "css-loader": "^6.8.1",
     "file-loader": "^6.2.0",
     "html-webpack-plugin": "^5.5.1",
+    "image-webpack-loader": "^8.1.0",
     "mini-css-extract-plugin": "^2.7.6",
     "style-loader": "^3.3.3",
     "url-loader": "^4.1.1",
